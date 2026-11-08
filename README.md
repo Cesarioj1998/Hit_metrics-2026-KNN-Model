@@ -28,7 +28,7 @@ The errors aren't random. Missed hits (blue) are mostly ground balls that found 
 
 ## Choosing k
 
-The best k was found with leave one out cross validation on a 75% training set (87,488 balls in play). Almost all of the gain came between k = 1 and k = 11, and accuracy was essentially flat from about k = 150 on, so k = 191 sits in the middle of a plateau rather than at a sharp peak.
+The best k was found with leave one out cross validation on a 75% training set (87,488 balls in play). Most of the gain came between k = 1 and k = 11, and accuracy was essentially flat from about k = 150 on, so k = 191 sits in the middle of a plateau rather than at a sharp peak.
 
 ![Accuracy vs k](KNN%20Outcomes/KNN%20Accuracy%20vs%20k%20%282026%29%2C%20Training%20Set.png)
 
