@@ -43,3 +43,4 @@ The best k was found with leave one out cross validation on a 75% training set (
 - `KNN LA + EV Project.R`: full R script (kknn package)
 - `knn_k_search_results.csv`: cross validated accuracy for each k tested, so the slow search doesn't need to be rerun
 - `KNN Outcomes/`: all four plots
+- `Predicting Hits with KNN 2026 BIP.pdf`: full writeup with methodology, results, and discussion
